@@ -1,0 +1,354 @@
+{
+  "symbols": [
+    {
+      "name": "Raporturi",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "raporturi"
+    },
+    {
+      "name": "Rarina",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "rarina"
+    },
+    {
+      "name": "Ras / A Rade",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "ras-a-rade"
+    },
+    {
+      "name": "Rasaduri",
+      "category": "dictionar",
+      "shortMeaning": "Rasadurile in vise inseamna sperante in viitor, asteptati ceva nou in viata, aveti nevoie de un nou inceput.",
+      "fullInterpretation": "Rasadurile in vise inseamna sperante in viitor, asteptati ceva nou in viata, aveti nevoie de un nou inceput. Visul la rasaduri face referire la unele evenimente aflate la inceput, care abia prind contur.",
+      "slug": "rasaduri"
+    },
+    {
+      "name": "Rasarit / Apus",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "rasarit-apus"
+    },
+    {
+      "name": "Rascruce",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "rascruce"
+    },
+    {
+      "name": "Rascumparare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca esti retinut pentru o rascumparare semnifica faptul ca vei castiga o suma importan...",
+      "fullInterpretation": "Daca visezi ca esti retinut pentru o rascumparare semnifica faptul ca vei castiga o suma importanta de bani din partea cuiva care te-a ranit in trecut.",
+      "slug": "rascumparare"
+    },
+    {
+      "name": "Rasete",
+      "category": "dictionar",
+      "shortMeaning": "Daca auziti pe cineva razand inseamna ca in viata reala sunteti prea serios sa poate prea incordat.",
+      "fullInterpretation": "Daca auziti pe cineva razand inseamna ca in viata reala sunteti prea serios sa poate prea incordat. Nu puneti atata presiune pe dumneavoastra. Rasul este, de asemenea, un semn de eliberare, bucurie si placere. Visul in care sunteti luat in ras indica nesiguranta si teama de a nu fi acceptat. Rasete demonice - reprezinta sentimente de umilire si / sau de neputinta. Simtiti ca cineva lucreaza / comploteaza impotriva dumneavoastra.",
+      "slug": "rasete"
+    },
+    {
+      "name": "Rasism",
+      "category": "dictionar",
+      "shortMeaning": "Sa visezi ca esti rasist indica refuzul dumneavoastra de a fi aruncat deoparte.",
+      "fullInterpretation": "Sa visezi ca esti rasist indica refuzul dumneavoastra de a fi aruncat deoparte. Refuzi sa fi respins. De asemenea, daca tu crezi in rasism , atunci visul este o reflectare a credintei si a ideologiilor de veghe.",
+      "slug": "rasism"
+    },
+    {
+      "name": "Rasnita",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi o rasnita semnifica faptul ca vei avea o suparare.",
+      "fullInterpretation": "Daca visezi o rasnita semnifica faptul ca vei avea o suparare. De asemenea, acest vis nu este bun deoarece , iti vesteste necazuri materiale, lipsuri saracie.",
+      "slug": "rasnita"
+    },
+    {
+      "name": "Raspuns",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "raspuns"
+    },
+    {
+      "name": "Rastignit",
+      "category": "dictionar",
+      "shortMeaning": "2Daca te visezi rastignit sau vezi pe cineva, nu e semn prea rau, de cinste vei avea parte si, po...",
+      "fullInterpretation": "2Daca te visezi rastignit sau vezi pe cineva, nu e semn prea rau, de cinste vei avea parte si, poate, iti va veni si un castig.",
+      "slug": "rastignit"
+    },
+    {
+      "name": "Rastignit 2",
+      "category": "dictionar",
+      "shortMeaning": "2Daca te visezi rastignit sau vezi pe cineva, nu e semn prea rau, de cinste vei avea parte si, po...",
+      "fullInterpretation": "2Daca te visezi rastignit sau vezi pe cineva, nu e semn prea rau, de cinste vei avea parte si, poate, iti va veni si un castig.",
+      "slug": "rastignit-2"
+    },
+    {
+      "name": "Rasturnare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca te rastorni cu un vehicul semnifica faptul ca va asteapta o primejdie.",
+      "fullInterpretation": "Daca visezi ca te rastorni cu un vehicul semnifica faptul ca va asteapta o primejdie.",
+      "slug": "rasturnare"
+    },
+    {
+      "name": "Rasul",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "rasul"
+    },
+    {
+      "name": "Rata pasare",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "rata-pasare"
+    },
+    {
+      "name": "Ratacit",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "ratacit"
+    },
+    {
+      "name": "Ratacita",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "ratacita"
+    },
+    {
+      "name": "Raton",
+      "category": "dictionar",
+      "shortMeaning": "Ratonul in vis semnifica inselaciune si furt.",
+      "fullInterpretation": "Ratonul in vis semnifica inselaciune si furt. Nu sunteti complet sincer in unele situatii. De asemenea, visul sugereaza ca ascunzi ceva , tineti un secret.- Visul in care alergi intr-un maraton reprezita calatoria vietii, cum se desfasoara si cum se simte. Acesta este un simbol al rezistentei si al vointei. Alternativ, visul sugereaza ca trebuie sa muncesti din greu si sa ai rabdare pentru a reusi sa-ti depasesti concurenta. - Daca ai visat ca privesti un maraton inseamna ca vei fi surmenat si vei avea momente de tensiune.",
+      "slug": "raton"
+    },
+    {
+      "name": "Rau",
+      "category": "dictionar",
+      "shortMeaning": "Visele in care utilizam un ferastraul indica faptul ca trebuie sa renuntam la realizarea unui lucru.",
+      "fullInterpretation": "Visele in care utilizam un ferastraul indica faptul ca trebuie sa renuntam la realizarea unui lucru. Exista ceva in viata noastra ce trebuie taiat, exclus. La fel ca si securea sau cutitul, ferastraul este instrumentul separator sau agentul rupturii, dar si al eliberarii. - Daca ai visat un ferastrau electric, inseamna capacitatea de a parcurge o problema pana la miezul acesteia. Sti cum sa atingi nuleul problemei rapid. - Ferastraul prins intr-o bucata de lemn, semnifica dificultati ce trebuiesc depasite. - Ferastrau ruginit sau rupt, inseamna puncte de esec si de ghinion. - Daca doar auzi zgomotul unui ferastrau in vis, semnifica economie si prosperitate.(vezi, de asemenea denumirile celorlalte unelte).Raul sau fluviul din vise simbolizeaza fluxul vietii noastre, atitudinea pe care o avem atunci cand parcurgem cursul evenimentelor. Este foarte important sa va amintiti si sa acordati o atentie deosebita vremii, lucrurilor si peisajelor de pe malul raului, activitatile efectuate si emotiile generate de acest tip de vis. Un fluviu / rau intr-o zi insorita si calma simbolizeaza pace, veselie, prosperitate, fertilitate si placeri. Cu toate acestea, un rau care se revarsa sau curge rapid poate simboliza o faza turbulenta a vietii dumneavoastra. Nivelul si debitul cu care curge apa raului devine imprevizibil si pare ca este necontrolabil, este un semn de incertitudini si obstacole. In continuare va prezentam cateva dintre cele mai frecvente interpretari ale viselor legate de fluvii si rauri. Vise despre mediul inconjurator si felul in care arata raul si malul Deoarece raul este reprezentarea fluxului de energie si viata, acordati atentie malurilor si pamantului prin care raul isi croieste cursul. In functie de tipul si aspectul raului, visul poate fi interpretat diferit. De exemplu, un rau care curge printr-un camp inzapezit si / sau care are gheata la mal nu semnifica ceva in mod deosebit, dar este posibil ca in timpul somnului sa va fi descoperit sau sa fi fost prea rece in camera si sa fi simtit frig. Un rau complet inghetat reflecta intepenirea / inghetarea interesului cu privire la sansele ce vi se ofera in viata. Un rau care curge prin terenuri agricole simbolizara o viata imbelsugata si o alimentatie sanatoasa. Visele cu un mal ucat sau un rau aproape secat pot sugera faptul ca v-ati pierdut capacitatea creativa ( tinand cont de malul uscat si saracacios). Apa putina din raul aproape secat reprezinta faptul ca pe zi ce trece gasiti tot mai putine placeri si bucurii in viata. Puteti lua in considerare incercarea unor activitati noi pentru a va inveseli ziua. Un rau normal (calm si senin), fara scopuri sau evenimente vizibile, indica faptul ca va lasati condus de fluxul vietii. Vazand un rau foarte murdar sau contaminat, fie cu gunoaie, fie cu gunoaie, implica faptul ca va simtiti letargic si obosit. Poate fi, de asemnea, un semn ca nu vi-a preit mancarea sau un semn al unei boli. Un rau / fluviu noroios este semnul unor framantari. Noroiul reflecta dandurile dumneavoastra interioare. Alternativ, raul noroios poate reprezenta ganduri imorale. Visele in care vedem un rau dezlantuit si turbulent sunt asociate cu sentimentul de neliniste si aveti sentimentul ca viata scapata de sub control. Inotul intr-un rau ce curge repede sugereaza faptul ca sunteti gata sa va confruntati cu provocarile vietii. Intersectiile de rauri reflecta noi etape si oportunitati din viata dumneavoastra. Poate ca intemeiati o familie sau poate ca va deschideti o afacere. Sacaldaul in rau reprezinta purificare si curatare. Cu toate acestea, daca raul in care faceti baie este unul murdar sau infestat, inseamna ca factie parte dintr-un grup sau mediu cu influente negative care va vor corupe intr-un anumit fel.- Daca ai visat ca fraudezi pe cineva inseamna ca trebuie sa iti reevaluezi caracterul propriu. Visul poate indica si o constiinta vinovata. Alternativ visul semnifica pierderea unui prieten. - Daca in vis s-a comis o frauda asupra ta, inseamna ca esti prea increzator in spusele altora. Fi constient de oamenii necinstiti din jurul tau. Poate ca deja suspectezi pe cineva inconstient.Graul este unul dintre simbolurile din visele noastre cu o gama larga de semnificatii. Aceasta cereala este adesea asociata cu un anumit tip de succes ce trebuie urmarit. Lanuri de grau Visarea lanurilor de garu este o adevarata placere. Un asemnea vis ne arata iubirea noastra sincera fata de oameni. Impresie buna la prima vedere. Recoltarea graului Atunci cand visam recoltarea graului este un semn ca ar trebui sa continuam o munca, una care a fost pusa pe locul doi (intr-un fel de asteptare). De asemenea, recoltarea garului mai simbolizeaza si faptul ca va aflati intr-o noua etapa a vietii, roadele muncii si asteptarile dumneavoastra vor da rezultate. Germeni de grau Visarea boabelor germinate de garu este un indicator direct spre puritate. De asemenea, visul indica nevoia de a urmari o cale buna. Gatind grau Gatitul garului in vis semnifica un nou inceput, poate ca este momentul sa va bucurati de viata. In general, visul va avea la baza locul de munca sau ceva legat de domeniul afacerilor. Poate ca pana acum v-ati sacrificat prea mult, cum ar fi daca in perioada imediat urmatoare v-ati bucura de de liniste si timp perios petrecut alaturi de familie? Grau negru Graul negru indica faptul ca sunteti o persoana felxibila si care se poate adapta oricarei situatii, chiar daca aceasta este una proasta sau dificila. Sa zicem ca ati putea face aproape orice munca pentru a va atinege un scop sau pentru a obtine ceea ce va doriti. Interpretari ale graului culese din popor In general, visul simbolizeaza buna stare, avere, avutie, noroc si sanatate Avand grau - belsug, prosperitate Lan de grau arzand - prevesteste o perioada dificila din mai multe puncte de vedere Bob de grau - viand un singur bob poate face referire la o perioada de timp pierdut Camp cu garu / lan de garu - bunastare financiara Cumparand garu de la ma gazin sau din targ - agitatie multa, alergatura zadarnica Garu cu spice frumoase - belsug si prosperitate Hambar plin cu grau - mostenire, avutie sau afaceri bune Mancand grau - bunastare materiala Vazand un lan de grau secerat (nu de catre tine)- mostenire pierduta, afaceri paguboase Grau verde - surprize sau noi inceputuri Grauntele in vis sugereaza spor in munca. Daca visati ca aveti graunte in maini inseamna ca veti avea spor in ceea ce va doriti sa realizati. Visul in care cantariti grauntele semnifica prosperitate indelungata. Daca grauntele sunt curate atunci veti munci plini spor.",
+      "slug": "rau"
+    },
+    {
+      "name": "Raza",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi o raza de lumina inseamna ca esti o persoana deschisa si sociabila.",
+      "fullInterpretation": "Daca visezi o raza de lumina inseamna ca esti o persoana deschisa si sociabila.De asemenea, daca visati o raza de luna sugereaza ca sunteti slab si usor de condus.Daca visezi o razatoare este un semn bun deoarece semnifica o viata fara complicatii.",
+      "slug": "raza"
+    },
+    {
+      "name": "Razatoare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi o razatoare este un semn bun deoarece semnifica o viata fara complicatii.",
+      "fullInterpretation": "Daca visezi o razatoare este un semn bun deoarece semnifica o viata fara complicatii.",
+      "slug": "razatoare"
+    },
+    {
+      "name": "Razboi / Batalie",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "razboi-batalie"
+    },
+    {
+      "name": "Razboi de tesut",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "razboi-de-tesut"
+    },
+    {
+      "name": "Razboinic",
+      "category": "dictionar",
+      "shortMeaning": "Razboinicul din vise reprezinta un aspect neinfricat al personalitatii dumneavoastra.",
+      "fullInterpretation": "Razboinicul din vise reprezinta un aspect neinfricat al personalitatii dumneavoastra. De asemenea, dati dovada de curaj in moduri si situatii in care altii nu ar face-o. O atitudine curajoasa in fata provocarilor v-ar putea determina sa va infruntati unele temeri care in trecut v-au facut sa ratati sanse unice in viata. Din punct de vedere negativ, visul in care apare un gladiator / razboinic / luptator, sugereaza o persoana care nu se teme de nici o amenintare. (de asemnea, vezi si : razboi)",
+      "slug": "razboinic"
+    },
+    {
+      "name": "Razbunare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati ca va razbunati pe cineva sugereaza ca aveti un dezechilibru emotional.",
+      "fullInterpretation": "Daca visati ca va razbunati pe cineva sugereaza ca aveti un dezechilibru emotional. Este un semn ca nu judecati corect si ca ar fi bine sa nu luati nici o decizie importanta in aceasta perioada. De asemenea, daca visezi ca cineva se razbuna pe tine inseamna frica si neincredere.",
+      "slug": "razbunare"
+    },
+    {
+      "name": "Reabilitare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca esti in reabilitare indica faptul ca sunteti in convalescenta dupa o durere emotionala sau un traumatism.",
+      "fullInterpretation": "Daca visezi ca esti in reabilitare indica faptul ca sunteti in convalescenta dupa o durere emotionala sau un traumatism. Esti gata pentru un nou inceput si o reconstructie pentru o noua imagine de sine.",
+      "slug": "reabilitare"
+    },
+    {
+      "name": "Rebel",
+      "category": "dictionar",
+      "shortMeaning": "Acest vis indica faptul ca vrem sa luptam impotriva unor situatii in care suntem tratati nedrept.",
+      "fullInterpretation": "Acest vis indica faptul ca vrem sa luptam impotriva unor situatii in care suntem tratati nedrept.",
+      "slug": "rebel"
+    },
+    {
+      "name": "Rece",
+      "category": "dictionar",
+      "shortMeaning": "Intrecerea in vise reflecta un impact deliberat in viata dumneavoastra.",
+      "fullInterpretation": "Intrecerea in vise reflecta un impact deliberat in viata dumneavoastra. Visul este o reflexie a starii de competitie, a dependentei de opinia altuia. Trebuie sa lasati deoparte sentimentele de presiune, nu aveti de ce sa va interceti cu sinele dumneavoastra. Reamintiti-va ca fiecare persoana este unica si nu trebuie sa va comparati cu nimeni. Visul in care luati parte la intrecere prevesteste faptul ca veti asuma raspunderea in incercarea de a va apara punctele de vedere si principiile. A visa ca sunteti la o intrecere ca si fan sugereaza ca nu puteti sa va asumati responsabilitatea pentru propriile actiuni. Daca visati ca aveti o discutie emotionala cu persoana iubita despre intrecere inseamna sunteti matur si pregatit pentru o conversatie serioasa cu aceasta, dar nu stiti cum sa incepeti si intarziati acea discutie. A urmari o intrecere in vise sugereaza ca sunteti constient de actiunile dumneavoastra, afacerile dumneavoastra vor iesi la suprafata, iar propria deceptie va fi cunoscuta. Daca visati ca va intreceti singur, fara alti competitori, inseamna ca va bucurati ceea ce ati realizat si va asteptati la o recompensa.Visele despre o simpla petrecere cu prietenii reflecta deobicei nevoia de a iesi mai mult si de a va distra. Daca petrecerea este una incomoda sau plictisitoare, este semnul lipsei de incredere. In general, petrecerile din vise pot scoate la suprafata diverse semnimente de fericire sau de frustrare din viata de zi cu zi. Adesea, astfel de vise prezinta un anumit nivel de frustrare sexuala si pot aparea ca rezultat al faptului ca visatorul este introvertit. Visand ca planificati o petrecere in detaliu ar putea sugera faptul ca sunteti prea metodic si ca ar trebui sa fiti, in general, mai spontan cu modul in care va traiti viata. Invitand sau trimitand invitati prietenilor la o petrecere organizata de catre dumneavoastra sugereaza faptul ca doriti sa va extindeti cercul social. Luati in considerare persoanele invitate la petrecere, poate ca nu ati tinut legatura si doriti sa va reconectati. Gazduirea unei petreceri este semnul ca a sosit momentul sa renuntati la barierele si inhibitiile personale. Alternativ, visul reflecta unele nevoi sociale de a intalni oameni noi. Petrecere surpriza. Un astfel de vis simbolizeaza recunoasterea, atentia pozitiva sau aprecierea celor din jur. Petrecerea de la ziua de nastere (a ta) reflecata propria apreciere pentru viata. Daca este vorba despre ziua de nastre a unui prieten, este semn ca veti auzi vesti bune de la acesta. Petrecere de adio sau de pensionare. O astfel de petrecere indica faptul ca apreciati si va este dor de cineva care v-a ajutat mult in viata. Petrecera burlacilor sau a burlacitelor. Poate fi un vis nebun sau salbatic si se refera la petrecerile de ultim moment, inainte de a schimba stilul de viata sau de a porni pe un nou drum. Poate ca simtiti ca vietii dumneavoastra ii lipseste ceva si doriti sa va condimentati rutina de zi cu zi. Subconstientul este in cautare de noi experiente. Daca sunteti casatorit/a, lipsa romantismului si al apropierii poate fi cauza acestor vise. Petrecere de Craciun. Acest vis prevesteste o relatie amoroasa la orizont sau timp armonios petrecut cu cei dragi. Petrecere de anul nou. Visul este unul de anticipare, poate ca asteptati cu nerabdare un eveniment major sau poate ca veti demara in curt timp un proiect sau o afacere. Numaratoare inversa va aduce noi capitole in viata dumneavoastra.Cu toate ca este un animalut simpatic, cel putin in ochii copiilor, majoritatea femeilor au anumite retineri sau frici fata de micutul soarece. Puteti vizualiza versiunea video de mai jos a visului despre pisici sau puteti continua sa cititi textul (care contine si informatii extra fata de video), depinde de dumneavoastra. Videoclip despre visarea soarecilor Visarea soarecilor ar putea fi considerata bizara, dar surprinzator, astfel de vise sunt destul de comune, putand fi o exteriorizare a vinovatiei sau a unei anxietati profunde. In general, soarecii sunt o indicatie a unor probleme minore si usor rezolvabile. Din punct de vedere spiritual, aparitia soarecilor in vise ilustreaza si un avertisment pentru un pericol iminent, insa nu este ceva catastrofal si in anumite cazuri ar putea trece neobservat. In continuare va vom prezenta cele mai comune vise despre soareci: Visand un soarece alergand prin casa Un asemenea vis nu prevesteste nimic bun, este de obicei, o avertizare asupra faptului ca s-ar putea sa apara un conflict intre dumneavoastra si unul dintre membrii familiei. Gaura de soarece Gaura de soarece face referire la o anume parte ascunsa a sinelui si asupra faptului ca ar trebui sa fiti mai deschis fata de alte persoane. Alternativ, gaura unui soarece poate semnifica si dificultati care ar putea aparea in viitorul apropiat. Soareci care distrug lucruri in vise Visand soareci care va rod si va distrug unele bunuri, este un semn de pierderi materiale si financiare. Pregatiti-va pentru situatii dificile punand deoparte mici economii care sa va ajute in vremurile grele. Capturarea unui soarece in vis Daca in visul dumneavoastra ati prins un soarece, atunci acesta este un semn de bun augur. Reprezinta fericire si unele castiguri financiare in viitorul apropiat. Soareci morti Soarecii morti in vise sunt considerati un semn rau, simbolizand o perioada lunga de instabilitate financiara sau pierderi banesti. In unele cazuri, chiar dumneavoastra sunteti responsabil pentru circumstantele in care va aflati. Excremente si urina de soarece Visarea excrementelor de soarece prevesteste castiguri financiare mici si repetate datorita eforturilor dumneavoastra atente si recurente. Pe de alta parte, urina soarecilor, poate face referire la ceva ce va deranjeaza din viata de zi cu zi. Este indicat ca in zilele ce urmeaza sa va eliberati mintea de gandurile negative si neplacute. O multime de soareci in vis Vazand o multime de soareci în vis este un semn cÄƒ ar trebui sa fiti pregatit fizic si mental pentru unele momente grele. In mod alternativ, numarul mare de soareci laolalta inseamna ca si reputatia dumneavoastra va avea de suferit. Unele persoane vor imprastia fel si fel de afirmatii mincinoase despre statutul dumneavoastra in societate sau de la locul de munca. Soareci care te musca Visand un soarece care te musca poate insemna lucruri sau probleme marunte, dar care va impiedica dezvoltarea. Acest vis ar trebui sa va faca sa actionati rapid asupra unor probleme care aparent par nesemnificative. Soarecele alb Visand soareci albi este semnul unei relatii conjugale fericite si semnifica puritate spirituala. De asemenea, soarecele alb este simbolul vestilor bune sau poate reprezenta loialitatea unui prieten adevarat in momente dificile. Soarece negru De regula, soarecele negru face referire la ceva negativ. Aparitia acestora in vise poate semnala probleme de sanatate pentru dumneavoastra sau familie. Soarece gri Soarecii gri reprezinta multitudinea de probleme din viata dumneavoastra. Parasind zona de confort veti reusi sa rezolvati problemele una cate una. Semnificatii conform unor vechi carti de talmacire a viselor Soarece (in general) - Afaceri slabe, pierderi banesti alb- casatorie fericita fugind- noapte fara odihna in capcana- izbanda contra dusmanilor jucandu-se- asteapta petitori multi- foamete omorand- veste buna, scapi de musafiri prinzand- dobanda, castig la jocuri de noroc rontaind- bucurie mare vazand- dusman ascuns, subaltern hot negri - cineva din familia ta te fura (A)examenul- esti disciplinat - frontiera- latura sentimentala nu te ajuta la nimic - prin labirint- suferinte trupesti si sufletesti - mlastina- te asteapta zile amare - nor pe cer- perioada gitata - pe pod- onoare asigurata - prin poarta- mutare in casa noua - tramvaiul- pierdere de bani - trupele in revista- esti opersoana ambitioasa - testul- ai multe idei pentru viitor.Trecerea de pietoni in vise inseamna obligativitatea respectarii unor reguli impuse, formalism de comunicare, limbaj tinut sub control, cenzura.",
+      "slug": "rece"
+    },
+    {
+      "name": "Rechin",
+      "category": "dictionar",
+      "shortMeaning": "Rechinul in vise indica sentimente de inversunare, ostilitate si furie.",
+      "fullInterpretation": "Rechinul in vise indica sentimente de inversunare, ostilitate si furie. Parcurgeti o perioada emotionala lunga si dificila. Alternativ, rechinii in vise, pot semnifica o lupta de independenta, de individualitate. Rechinii in vise mai pot semnifica si persoane lacome si lipsite de scrupule. Un rechin care te ataca - mare paguba.",
+      "slug": "rechin"
+    },
+    {
+      "name": "Rechizite",
+      "category": "dictionar",
+      "shortMeaning": "Visul in care cumparati rechizite inseamna faptul ca veti avea conditii financiare bune.",
+      "fullInterpretation": "Visul in care cumparati rechizite inseamna faptul ca veti avea conditii financiare bune.",
+      "slug": "rechizite"
+    },
+    {
+      "name": "Recif",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati un recif semnifica faptul ca nu va puteti dezvolta pe un plan in viata reala din cauza subconstientului.",
+      "fullInterpretation": "Daca visati un recif semnifica faptul ca nu va puteti dezvolta pe un plan in viata reala din cauza subconstientului. De asemenea, visul poate insemna un refugiu sau o protectie a sentimentelor dumneavoastra.",
+      "slug": "recif"
+    },
+    {
+      "name": "Recolta",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "recolta"
+    },
+    {
+      "name": "Recompensa",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca primesti o recompensa sugereaza o cale in care o sa va depasiti problemele si greu...",
+      "fullInterpretation": "Daca visezi ca primesti o recompensa sugereaza o cale in care o sa va depasiti problemele si greutatile pe care o sa le intampinati in realizarea proiectelor.",
+      "slug": "recompensa"
+    },
+    {
+      "name": "Redecorare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati o redecorare semnifica faptul ca unele sentimente au nevoie de o schimbare.",
+      "fullInterpretation": "Daca visati o redecorare semnifica faptul ca unele sentimente au nevoie de o schimbare. Pozitiv, acesta poate fi un semn ca vreti sa stati pe margine sau sa va pastrati interesul pentru ceva ce faceti tot timpul. De asemenea, poate reflecta influente negative.",
+      "slug": "redecorare"
+    },
+    {
+      "name": "Reflector",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "reflector"
+    },
+    {
+      "name": "Reflexie",
+      "category": "dictionar",
+      "shortMeaning": "Atunci cand visam reflexia unui lucru , se sugereaza incercarea de a ne intelege sinele launtric ...",
+      "fullInterpretation": "Atunci cand visam reflexia unui lucru , se sugereaza incercarea de a ne intelege sinele launtric si modul in care facem fata lumii exterioare. Modelul in care punem stapanire pe aceasta realitate exterioara ne este temperat de sinele interior.",
+      "slug": "reflexie"
+    },
+    {
+      "name": "Refugiat",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca esti refugiat se refera la sentimentele de respingere de catre societate.",
+      "fullInterpretation": "Daca visezi ca esti refugiat se refera la sentimentele de respingere de catre societate. Alternativ, visul inseamna ca incercati sa scapati de o situatie sau o problema fara o confruntare.",
+      "slug": "refugiat"
+    },
+    {
+      "name": "Refugiu",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "refugiu"
+    },
+    {
+      "name": "Refuz",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca ai refuzat ceva sugereaza ca va aflati in negare despre ceva.",
+      "fullInterpretation": "Daca visezi ca ai refuzat ceva sugereaza ca va aflati in negare despre ceva. Luati in considerare cea ce se refuza . Exista unele aspecte sau caracteristici pe care le respingeti.",
+      "slug": "refuz"
+    },
+    {
+      "name": "Rege",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "rege"
+    },
+    {
+      "name": "Regiment",
+      "category": "dictionar",
+      "shortMeaning": "Interpretare disponibilă",
+      "fullInterpretation": "",
+      "slug": "regiment"
+    },
+    {
+      "name": "Regina",
+      "category": "dictionar",
+      "shortMeaning": "(Vezi si tron.",
+      "fullInterpretation": "(Vezi si tron.) Daca visezi ca esti rege sau regina inseamna ca vei fi presat de oamenii carora le datorezi bani.Daca visezi ca ingenunchezi in fata unui monarh inseamna ca vei primi o slujba mai buna.Daca visezi ca saruti mana monarhului inseamna ca trebuie sa te feresti de o nedreptate politica sau organizationala, care ti s-ar putea face.Daca visezi un monarh la plimbare, cu masina sau cu trasura este semn ca vei avea succes.",
+      "slug": "regina"
+    },
+    {
+      "name": "Registru",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati un registru sugereaza ca va urma o perioada in care trebuie sa va faceti griji pentru banii dumneavoastra.",
+      "fullInterpretation": "Daca visati un registru sugereaza ca va urma o perioada in care trebuie sa va faceti griji pentru banii dumneavoastra. Alternativ, poate sa semnifice castiguri banesti.",
+      "slug": "registru"
+    },
+    {
+      "name": "Regret",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati ca regretati ceva indica faptul ca in viata reala va preocupa unele dezamagiri si nemultumiri.",
+      "fullInterpretation": "Daca visati ca regretati ceva indica faptul ca in viata reala va preocupa unele dezamagiri si nemultumiri. Sentimentele pe care le aveti in vis sunt , de obicei , oglinda la ceea ce simtiti in viata reala, dar nu se pot exprima in mod corespunzator.",
+      "slug": "regret"
+    },
+    {
+      "name": "Reinviere",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati ca sunteti martorul unei reinvieri inseamna ca sunt probleme acasa si va trebui sa in...",
+      "fullInterpretation": "Daca visati ca sunteti martorul unei reinvieri inseamna ca sunt probleme acasa si va trebui sa infruntati un viitor predictibil. In curand veti experimenta stari de anxietate si griji, dar in momentele dificile veti avea prieteni care sa va sustina si sa va ajute. A va visa propria reinviere prevesteste faptul ca veti da de multe dificultati si obstacole in calea spre realizarea obiectivelor. Daca reusiti sa treceti peste probleme cu onoare atunci soarta va va fi favorabila si veti obtine tot ceea ce v-ati dorit si pentru ce v-ati straduit. Visul in care ati aflat de reinvierea cuiva, dar era doar o stire falsa, este un avertisment pentru dumneavoastra. Nu ar trebui sa va bazati sau sa va incredeti in oameni prea mult. In curand veti astepta ajutorul cuiva intr-o problema importanta, dar ajutorul promis nu va veni. Daca visati ca aveti puterea de a reinvia oameni inseamna ca poate ar trebui sa alegeti sa deveniti un doctor sau un psiholog, deoarece aveti tot ceea ce este necesar pentru a vindeca trupurile si sufletele altora. Cartea lui Miller sugereaza ca un vis in care ati murit si ati reinviat prezice o perioada dificila care se va transforma in fericire si noroc. Veti trece printr-o pierdere semnificativa, prin dezamagire si anxietate, dar dupa toate acestea veti castiga mai mult decat ati pierdut. In plus, toate problemele vor fi lasate in urma si veti deveni o persoana fericita si de succes.",
+      "slug": "reinviere"
+    },
+    {
+      "name": "Relatie",
+      "category": "dictionar",
+      "shortMeaning": "Sa visati la o relatie indica o completare a dorintelor.",
+      "fullInterpretation": "Sa visati la o relatie indica o completare a dorintelor. Visele despre relatiile dumneavoastra va scoate in evidenta anumite lucruri care nu le vedeti sau le gresiti in relatia cu partenerul de viata. In vis, de obicei, inclinati spre a spune ce va deranjeaza in relatie, lucruri despre care va este teama sau le ignorati in viata reala. Comparati relatia din vis cu relatia din viata reala. Daca visati ca aveti o relatie cu un strain reprezinta partile diferite ale personalitatii dumneavoastra. Se pare ca incercati sa va conectati cu anumite aspecte ale subconstientului. Daca visati ca aveti relatii intime cu cineva inseamna ca aveti o armonie interioara desavarsita, ca toate energiile interioare s-au unit pentru a va intari vitalitatea si echilibrul.",
+      "slug": "relatie"
+    },
+    {
+      "name": "Relief",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati un relief este posibil sa aveti un vis tulburator si constientul tau este in cautare ...",
+      "fullInterpretation": "Daca visati un relief este posibil sa aveti un vis tulburator si constientul tau este in cautare pentru a atenua impactul. Aveti nevoie de ceva timp pentru a evalua cu atentie deciziile si judecata dumneavoastra.",
+      "slug": "relief"
+    },
+    {
+      "name": "Religie",
+      "category": "dictionar",
+      "shortMeaning": "(Vezi si credincios.",
+      "fullInterpretation": "(Vezi si credincios.)Daca visezi ca esti religios inseamna ca vei fi interesat sa ajuti oamenii nevoiasi.Daca visezi ca esti antireligios inseamna ca vei fi criticat de prieteni pentru indiferenta fata de ei.",
+      "slug": "religie"
+    },
+    {
+      "name": "Remodelare",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati ca remodelati o casa reprezinta o schimbare de valori sau un sistem de credinta.",
+      "fullInterpretation": "Daca visati ca remodelati o casa reprezinta o schimbare de valori sau un sistem de credinta. Alternativ, reflecta o schimbare a stilului de viata sau de comportament.",
+      "slug": "remodelare"
+    }
+  ]
+}

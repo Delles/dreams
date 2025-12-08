@@ -1,0 +1,256 @@
+{
+  "symbols": [
+    {
+      "name": "Stranut",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca stranuti semnifica sensibilitate crescuta la o situatie sau o problema.",
+      "fullInterpretation": "Daca visezi ca stranuti semnifica sensibilitate crescuta la o situatie sau o problema. De asemenea, stranutul poate reflecta un sentiment de frica pentru rezolvarea unei probleme.",
+      "slug": "stranut"
+    },
+    {
+      "name": "Stres",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca esti sub stres reflecta stresul cu care va confruntati in viata reala.",
+      "fullInterpretation": "Daca visezi ca esti sub stres reflecta stresul cu care va confruntati in viata reala. Visul poate atrage atentia asupra unor obstacole sau critici care se confrunta intr-o situatie de veghe sau de relatie. Sunteti pe punctul de a va duce in jos si trebuie sa Â luati o pauza pentru a va distanta de aceste probleme.",
+      "slug": "stres"
+    },
+    {
+      "name": "Strigat",
+      "category": "dictionar",
+      "shortMeaning": "Visul strigat semnifica: -fie il auzim, fie il scoatem !",
+      "fullInterpretation": "Visul strigat semnifica: -fie il auzim, fie il scoatem ! Oricum , el insoteste o stare de emotie care provoaca o reactie de ingrijorare, chiar de spaima sau de suferinta, de bucurie si de eliberare. Strigatul este si un semn de aderare, de razboi si protest. - se zice ca e semn bun atunci cand auzim , in vis, vorbe rastite, strigate -de fapt, este o descarcare a ta si-ti va fi mult mai bine in urmatoarea perioada. Daca esti strigat pe nume -daca indragostitii isi vor auzi numele strigat in vis, inseamna ca dragostea lor va fi de bine. -acest vis nu are nici o legatura cu vreo moarte a cuiva apropiat sau cu niste necazuri financiare.",
+      "slug": "strigat"
+    },
+    {
+      "name": "Strigoi",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi un strigoi este un semn rau, semnifica faptul ca vei avea probleme de sanatate, ceva o sa te supere.",
+      "fullInterpretation": "Daca visezi un strigoi este un semn rau, semnifica faptul ca vei avea probleme de sanatate, ceva o sa te supere.",
+      "slug": "strigoi"
+    },
+    {
+      "name": "Stropitoare",
+      "category": "dictionar",
+      "shortMeaning": "A vedea o stropitoare in vise indica iluminarea, intinerirea si curatarea.",
+      "fullInterpretation": "A vedea o stropitoare in vise indica iluminarea, intinerirea si curatarea. Se face lumina intr-o anumita situatie sau relatie. Ranile dumneavoastra emotionale incep sa se vindece.",
+      "slug": "stropitoare"
+    },
+    {
+      "name": "Struguri",
+      "category": "dictionar",
+      "shortMeaning": "Strugurii albi in vis inseamna sanatate, prosperitate, poate chiar terminarea unor proiecte ambitioase.",
+      "fullInterpretation": "Strugurii albi in vis inseamna sanatate, prosperitate, poate chiar terminarea unor proiecte ambitioase. O explicatie veche spune ca daca va visati culegand struguri albi veti avea parte de castiguri. Strugurii negri in vise inseamna lacrimi, prevestesc o despartire neasteptata. Daca visati ca adunati struguri negri inseamna ca veti avea necazuri.",
+      "slug": "struguri"
+    },
+    {
+      "name": "Struguri albi",
+      "category": "dictionar",
+      "shortMeaning": "Strugurii albi in vis inseamna sanatate, prosperitate, poate chiar terminarea unor proiecte ambitioase.",
+      "fullInterpretation": "Strugurii albi in vis inseamna sanatate, prosperitate, poate chiar terminarea unor proiecte ambitioase. O explicatie veche spune ca daca va visati culegand struguri albi veti avea parte de castiguri.",
+      "slug": "struguri-albi"
+    },
+    {
+      "name": "Struguri negri",
+      "category": "dictionar",
+      "shortMeaning": "Strugurii negri in vise inseamna lacrimi, prevestesc o despartire neasteptata.",
+      "fullInterpretation": "Strugurii negri in vise inseamna lacrimi, prevestesc o despartire neasteptata. Daca visati ca adunati struguri negri inseamna ca veti avea necazuri.",
+      "slug": "struguri-negri"
+    },
+    {
+      "name": "Strut",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi un strut la gradina zoologica prevesteste neintelegeri in casa, dar aceste neintelege...",
+      "fullInterpretation": "Daca visezi un strut la gradina zoologica prevesteste neintelegeri in casa, dar aceste neintelegeri nu vor fi grave si se vor rezolva. De vei visa ca prinzi un strut, semnifica ca mergi pe drumul cel bun in meseria ta profesionala si vei fi promovat. Vei avea succes.",
+      "slug": "strut"
+    },
+    {
+      "name": "Student",
+      "category": "dictionar",
+      "shortMeaning": "Studentul in vise de obicei inseamna ca ar trebui sa va concentrati asupra studiilor dumneavoastra.",
+      "fullInterpretation": "Studentul in vise de obicei inseamna ca ar trebui sa va concentrati asupra studiilor dumneavoastra. Visul in care dumneavoastra sunteti student prezice satisfactii. Daca visati ca altcineva este student inseamna ca veti avea parte de bucurii.",
+      "slug": "student"
+    },
+    {
+      "name": "Studio",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi un studio este semn de veselie.",
+      "fullInterpretation": "Daca visezi un studio este semn de veselie. De asemenea, daca ai un vis a carui actiune se petrece in birou, inseamna ca te vei asocia cu persoane interesate de arta.",
+      "slug": "studio"
+    },
+    {
+      "name": "Stuf",
+      "category": "dictionar",
+      "shortMeaning": "Stuful in vise inseamna noroc schimbator, s-ar putea sa existe o cearta intre prieteni.",
+      "fullInterpretation": "Stuful in vise inseamna noroc schimbator, s-ar putea sa existe o cearta intre prieteni. Daca visati un stuf uscat reprezinta fatarnicie din partea prietenilor.",
+      "slug": "stuf"
+    },
+    {
+      "name": "Stup",
+      "category": "dictionar",
+      "shortMeaning": "Stupul este casa albinelor si, prin metonimie, se refera chiar la albine, vazute ca o colectivita...",
+      "fullInterpretation": "Stupul este casa albinelor si, prin metonimie, se refera chiar la albine, vazute ca o colectivitate, ca populatie, ca familie. Valoarea lui simbolica este deci limpede: inteles ca o casa, stupul este un spatiu datator de tihna, protector, matern. Zumzetul stupului seamana cu un zgomot dintr-un atelier sau o uzina, simbolizeaza acea comunitate asidua, organizata , subordonata unor reguli stricte, socotita in stare sa domoleasca nelinistile fundamentale al fiintei si sa-i aduca pacea launtrica. Umbland la un stup si albinele roind din el, semn ca veti avea probleme de rezolvat.",
+      "slug": "stup"
+    },
+    {
+      "name": "Submarin",
+      "category": "dictionar",
+      "shortMeaning": "Submarinul vazut in vis iti va prevesti o perioada cu tot felul de impotriviri.",
+      "fullInterpretation": "Submarinul vazut in vis iti va prevesti o perioada cu tot felul de impotriviri. Nu e bun visul cu obiecte sau fiinte care se scufunda in mare. Acestea vor ascunde intotdeauna un mister ce-ar putea sa poarte cu el binele sau raul.",
+      "slug": "submarin"
+    },
+    {
+      "name": "Subsol",
+      "category": "dictionar",
+      "shortMeaning": "Subsolul in vise reprezinta subconstientul si intuitia dumneavoastra.",
+      "fullInterpretation": "Subsolul in vise reprezinta subconstientul si intuitia dumneavoastra. Este o indicatie a stari dumneavoastra de spirit in subconstient si al nivelului de satisfactie. Dezordinea din subsol inseamna o oarecare confuzie pe care trebuie sa o rezolvati. Mai multe informatii si pe interpretarea visului pivnita.",
+      "slug": "subsol"
+    },
+    {
+      "name": "Suburbie",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati o suburbie reprezinta un potential, crestere sau prosperitate.",
+      "fullInterpretation": "Daca visati o suburbie reprezinta un potential, crestere sau prosperitate. De asemenea, visul este un simbol de familie si o viata idilica. Alternativ, suburbia se refera la asemanare si monotonie.",
+      "slug": "suburbie"
+    },
+    {
+      "name": "Suferinta",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca ai o suferinta fizica de un anumit fel semnifica faptul ca te vei bucura de multa sanatate.",
+      "fullInterpretation": "Daca visezi ca ai o suferinta fizica de un anumit fel semnifica faptul ca te vei bucura de multa sanatate.",
+      "slug": "suferinta"
+    },
+    {
+      "name": "Suflet",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati ca nu aveti suflet sugereaza faptul ca va simtiti pierdut din punct de vedere spiritual.",
+      "fullInterpretation": "Daca visati ca nu aveti suflet sugereaza faptul ca va simtiti pierdut din punct de vedere spiritual. Trebuie sa va regasiti si sa dati seama ce va face sa va simtiti intreg ca persoana. Visul in care sufletul va paraseste corpul reprezinta sentimentele de vinovatie. S-ar putea sa va fi compromis propriile credinte si valori. Poate ca va simtiti retras fata de cei din jur. Este timpul sa schimbati o parte importanta din viata dumneavoastra pentru a va simti ca traiti din nou. Daca visati ca faceti schimb de suflete cu un prieten implica faptul ca nu va acceptati asa cum sunteti. Va duceti pe o cale spre nebunie, astfel dumneavoastra suferiti de un respect de sine scazut. Visul in care va casatoriti cu cineva pentru a-i salva sufletul se refera la sacrificiile pe care le faceti intr-o anumita situatie sau relatie. Intotdeauna jucati rolul protectorului in relatie si incercati sa ii feriti pe ceilalti.",
+      "slug": "suflet"
+    },
+    {
+      "name": "Sufocat sufocare",
+      "category": "dictionar",
+      "shortMeaning": "Acest vis poate avea cauze in functionarea defectuoasa a organismului in timpul somnului, in pozi...",
+      "fullInterpretation": "Acest vis poate avea cauze in functionarea defectuoasa a organismului in timpul somnului, in pozitia corpului in timpul somnului sau datorita unor factori care actioneaza asupra organismului. In aceste conditii, visul nu are nici o semnificatie. In schimb, atunci cand cauzele visului sunt altele, misterioase, nepatrunse de mintea omeneasca, visul prevesteste ceva groaznic - o boala incurabila.",
+      "slug": "sufocat-sufocare"
+    },
+    {
+      "name": "Sufragerie",
+      "category": "dictionar",
+      "shortMeaning": "Sufrageria in vise inseamna suparare, saracie.",
+      "fullInterpretation": "Sufrageria in vise inseamna suparare, saracie. Visul in care va aflati in sufragerie reprezinta cautarea intelegerii si cunostintelor. Este posibil sa ajungeti in momentul in care trebuie sa luati o decizie importanta in viata dumneavoastra.",
+      "slug": "sufragerie"
+    },
+    {
+      "name": "Sulita",
+      "category": "dictionar",
+      "shortMeaning": "Sulita in vis reprezinta puterea de a va concentra pe un anumit scop.",
+      "fullInterpretation": "Sulita in vis reprezinta puterea de a va concentra pe un anumit scop.Alternativ, se poate ca tu sau altcineva sa atacati in mod intentionat o persoana apropiata.",
+      "slug": "sulita"
+    },
+    {
+      "name": "Sultan",
+      "category": "dictionar",
+      "shortMeaning": "Sultanul in vise se refera la responsabilitati si asteptari.",
+      "fullInterpretation": "Sultanul in vise se refera la responsabilitati si asteptari. Alternativ, visul in care apare un sultan mai poate simboliza un parinte care va manipuleaza. Daca visati ca dumneavoastra sunteti un sultan inseamna ca aveti dorinta de a conduce. Simtiti ca ceilalti aspira sa ajunga la fel ca dumneavoastra. Visul ar mai putea sa va spuna ca sunteti prea insistent cu credintele si parerile despre cei din jur.",
+      "slug": "sultan"
+    },
+    {
+      "name": "Sunca",
+      "category": "dictionar",
+      "shortMeaning": "Sunca in vis este un semn nefavorabil ,fie ca o cumperi, fie ca o mananci, in general, asemenea v...",
+      "fullInterpretation": "Sunca in vis este un semn nefavorabil ,fie ca o cumperi, fie ca o mananci, in general, asemenea vis face prevestiri asupra sanatatii. Se spune ca daca v-ati visat mancand mancand sunca vei avea copii multi Vis nu prea bun, intodeauna carnea prevesteste probleme cu sanatatea, chiar si atunci cand carnea visata apare preparata.Daca vedeti sunca in visele dumneavoastra inseamna ca veti deveni o victima a tradarii si a barfelor daunatoare. In multe vise, sunca reprezinta prezenta pericolului, dar poate sugera si un bun parteneriat in afaceri. Visul in care feliati o bucata de sunca sugereaza ca veti fi capabil sa depasiti toate dificultatile. Daca visati ca cineva taie o bucata de sunca atunci este un avertisment deoarece cineva doreste sa va cauzeze probleme. Visul mai poate sugera si ca nu aveti motiv de ingrijorare deoarece pericolul va trece si nu va aduce prea multe probleme. A visa ca vindeti sau cumparati sunca prevesteste averea si bunastarea. Daca visati ca mancati sunca inseamna ca veti pierde anumite lucruri valoroase. Visul in care mancati sunca impreuna cu cineva este un semn bun deoarece prevesteste un viitor profitabil. Alternativ, visul poate fi o profetie despre relatii sexuale armonioase si serioase ce duc spre mariaj. Trebuie, totusi, sa aveti grija sa nu pierdeti sansa de a va aranja viata personala. Visul in care simtiti miros de sunca sugereaza ca veti fi capabil sa beneficiati de actiunile altora. Atunci cand visati ca gatiti omleta cu sunca inseamna o conversatie neplacuta cu persoana iubita.",
+      "slug": "sunca"
+    },
+    {
+      "name": "Supa",
+      "category": "dictionar",
+      "shortMeaning": "In general, visul cu supa este bun , mai ales daca visezi ca mananci supa, iar supa nu e rece.",
+      "fullInterpretation": "In general, visul cu supa este bun , mai ales daca visezi ca mananci supa, iar supa nu e rece. Visul prevesteste atmosfera placuta, destindere. -de cartofi- sanatatea nu iti este buna; -de zarzavat mancand- probleme in familie; -gatind- fericire nesigura; -gustand- profit; -fierbinte- veselie apropiata; -grasa- bogatie; -groasa- dezamagire, obstacole, lipsa de energie; -mancand- sanatate; -pe masa- esti ajutat de cineva in care nu ai prea avut mare incredere; -sarata- necazuri; -slaba- sanatate;Suprarea in vis este un semn bun, de insotire placuta, prevestire de bucurie, de voie buna. De asemenea, daca te visezi suparat , abatut, trist , rau nu-ti va fi. In viata reala vei avea prieteni, tovarasi buni de munca si de petrecere a timpului liber si in caz de nevoie vei fi ajutat.",
+      "slug": "supa"
+    },
+    {
+      "name": "Suparare",
+      "category": "dictionar",
+      "shortMeaning": "Suprarea in vis este un semn bun, de insotire placuta, prevestire de bucurie, de voie buna.",
+      "fullInterpretation": "Suprarea in vis este un semn bun, de insotire placuta, prevestire de bucurie, de voie buna. De asemenea, daca te visezi suparat , abatut, trist , rau nu-ti va fi. In viata reala vei avea prieteni, tovarasi buni de munca si de petrecere a timpului liber si in caz de nevoie vei fi ajutat.",
+      "slug": "suparare"
+    },
+    {
+      "name": "Supermarket",
+      "category": "dictionar",
+      "shortMeaning": "Supermarketul in vise simbolizeaza necesitatea unei alegeri si atentie la emotii.",
+      "fullInterpretation": "Supermarketul in vise simbolizeaza necesitatea unei alegeri si atentie la emotii. Va trebui sa va hotarati asupra unor decizii in viata. Supermarket plin de lume Un supermarket aglomerat simbolizeaza sentimente de lacomie din partea altor persoane. Incercati sa nu povestiti tuturor viata dumneavoastra, fiti mai misterios, nu toata lumea trebuie sa afle totul despre dumneavoastra cu atat usurinta. Supermarket aproape gol Daca in visul dumneavoastra ati sesizat ca supermarketul este aproape gol de marfa si cu putini cumparatori, inseamna ca unele situatii trebuiesc schimbate, mai ales modul cum va exprimati sentimentele. Persoanele din cercul dumneavoastra de apropiati pot abuza de unele informatii obtinute de la dumneavoastra si prin acestea vor incerca sa va fac rau, asa ca fiti foarte prudent. Cumparaturi la supermarket Acest vis poate indica dependenta dumneavoastra fata de cumparaturi si, acesta poate fi unul dintre motive pentru care sunteti mereu in datorii. Pe de alta parte, daca vedeti alte persoane care fac cumparaturi pline de bucurie, insemana ca mereu v-ati uitat in jur la alte persoane sau cupluri fericite. A venit momentul sa faceti o schimbare radicala, ati ajuns la concluzia ca timpul a trecut si dumneavoastra ati ramas la fel.",
+      "slug": "supermarket"
+    },
+    {
+      "name": "Superputeri",
+      "category": "dictionar",
+      "shortMeaning": "Cu totii, la un moment dat, ne-am dorit sa avem superputeri, fie pentru a avea tot ce ne dorim, f...",
+      "fullInterpretation": "Cu totii, la un moment dat, ne-am dorit sa avem superputeri, fie pentru a avea tot ce ne dorim, fie pentru a ajuta pe cineva. Chiar daca sunteti o persoana normala, a existat candva o incercare de a deveni mai puternic decat oricine altcineva. Superputerile din vise pot fi asociate cu un sentiment de incredere excesiva cu privire la abilitatile si calitatile dumneavoastra. Drept urmare, visul semnaleaza avantaje speciale, mult peste o persoana medie, si puterea de a realiza mult mai mult.De asemena, puterile supranaturale pot reflecta manifestari neasteptate, uneori socante, ale abilitatilor de putere. Acestea pot inspaimanta sau jena alte perosoane doar prin faptul ca pentru dumneavoastra este foarte usor sa faceti acele lucruri. Din punct de vedere spiritual, puterile supraomenesti exprima potentialul si cresterea, deszoltatea spirituala si fertilitatea. Acestea sunt o dovada ce indica faptul ca ceva crucial si pretios s-a incheiat, dar tot dumneavoastra detineti puterea de a schimba. Interpretarea puterilor supraomenesti din vise cu continut specific Visand ca ridicati o piatra imposibil de clintit in lumea reala, poate reflecta un nivel surprinzator de persistenta in fata unei provocari uriase. Va agatati si sfidati toate asteptarile imposibile si asta va creaza sentimente de neliniste. Nu va faceti griji, in final totul va fi bine. Visand ca aveti superputerea cu care puteti schimba vremea. Un asemnea vis face referire la abilitatea dumneavoastra de a manipula emotiile. De asemena, visul poate refecta capacitati neobisnuit de puternice de a modifica si schimba conditiile unei situatii. Visand ca puteti zbura. Acest vis simbolizeaza sentimente de neoprit, exceptionalitate, inventivitate sau abilitati superioare. Visand ca aveti puterea de a trage cu laser din ochi. Aceasta abilitate demna de benzi desenate reflecta capacitatea dumneavoastra de a face fata perfect problemelor doar prin observare si analizare. De asemena, visul poate simboliza abilitati puternice de delegare, de a-i face pe cei din jur sa indeplineasca sarcini pentru dumneavoastra.",
+      "slug": "superputeri"
+    },
+    {
+      "name": "Surd",
+      "category": "dictionar",
+      "shortMeaning": "Surdul in vise prezice faptul ca va veti imbolnavi, ca veti avea pierderi insemnate.",
+      "fullInterpretation": "Surdul in vise prezice faptul ca va veti imbolnavi, ca veti avea pierderi insemnate. Daca ati visat ca sunteti surd inseamna ca veti primi o veste neplacuta. Visul in care vedeti un alt surd aduce multe impliniri. Daca visati ca va straduiti sa va faceti inteles de un surd atunci inseamna ca veti avea de pierdut in amor. Visul in care vorbiti cu un surd inseamna ca veti primi vesti deprimante",
+      "slug": "surd"
+    },
+    {
+      "name": "Surpriza",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi ca esti surprins inseamna ca vei avea o experienta incitanta.",
+      "fullInterpretation": "Daca visezi ca esti surprins inseamna ca vei avea o experienta incitanta. De asemenea, daca visezi ca tu faci o surpriza, sugereaza ca veniturile tale vor creste.",
+      "slug": "surpriza"
+    },
+    {
+      "name": "Surub",
+      "category": "dictionar",
+      "shortMeaning": "Surubul in vise sugereaza sarcini inutile, dar poate insemna ca va faceti de ras.",
+      "fullInterpretation": "Surubul in vise sugereaza sarcini inutile, dar poate insemna ca va faceti de ras. Semnificatia surubului in vise depinde de statutul dumneavoastra social. Daca cineva care a comis o faradelege, surubul inseamna gardianul inchisorii, iar in argoul tinerilor cuvantul sugereaza actul sexual.Surubelnita in vise este un semn bun, inseamna veti reusi sa treceti peste piedicile care vi se pun.",
+      "slug": "surub"
+    },
+    {
+      "name": "Surubelnita",
+      "category": "dictionar",
+      "shortMeaning": "Surubelnita in vise este un semn bun, inseamna veti reusi sa treceti peste piedicile care vi se pun.",
+      "fullInterpretation": "Surubelnita in vise este un semn bun, inseamna veti reusi sa treceti peste piedicile care vi se pun.",
+      "slug": "surubelnita"
+    },
+    {
+      "name": "Susan",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati susan semnifica comori ascunse si bogatii.",
+      "fullInterpretation": "Daca visati susan semnifica comori ascunse si bogatii. Daca visati ulei de susan reprezinta munca grea si daruire.",
+      "slug": "susan"
+    },
+    {
+      "name": "Sutana preoteasca",
+      "category": "dictionar",
+      "shortMeaning": "Sutana este un vesmant lung , ajustat pe corp ,adesea purtata de preoti in afara slujbelor religi...",
+      "fullInterpretation": "Sutana este un vesmant lung , ajustat pe corp ,adesea purtata de preoti in afara slujbelor religioase, calugari sau pastori. Preotii romano-catolici poarta 33 de nasturi la sutana, echivalentul celor 33 de ani ai lui Isus din Nazaret. In traditia bizantina sutana este lipsita de nasturi in fata. Un semn de indoiala este acela cand va visati purtand o sutana. Aveti indoieli asupra faptului ca nu aveti suficienta putere pentru a face fata unor sarcini si responsabilitati pe care vi le-ati asumat. Vazand un preot tinand o slujba imbrcat in sutana neagra, este semn de protectie divina. Daca sunt mai multi preoti, visul poate simboliza sfaturi de la prieteni sau rude pe care ar trebui sa le urmati. Tot acesti preoti pot fi si un simbol al faptului ca nu sunteti singur in fata situatiilor dificile pe care va trebui sa le rezolvati. Vazand pe altcineva purtand o sutana preoteasca (desi acesta nu este in realitate un preot) inseamna ca veti refuza, prin propria vointa, un fel de bogatie.",
+      "slug": "sutana-preoteasca"
+    },
+    {
+      "name": "Sutien",
+      "category": "dictionar",
+      "shortMeaning": "Daca visezi un sutien semnifica: -vis bun; -sutien nou- vei avea o intalnire placuta cu o persoan...",
+      "fullInterpretation": "Daca visezi un sutien semnifica: -vis bun; -sutien nou- vei avea o intalnire placuta cu o persoana apropiata; -sutien vechi- ai idei ciudate, dar nu lipsite de originalitate; -sutien alb- semn de multumire; -sutien mic- esti o persoana agresiva; -sutien mare- vei avea unele dificultati la serviciu; -iti pui un sutien- inseamna ca esti adaptabila de fel;",
+      "slug": "sutien"
+    },
+    {
+      "name": "Suvenir",
+      "category": "dictionar",
+      "shortMeaning": "Daca visati un suvenir reprezinta realizari de neuitat sau situati memorabile.",
+      "fullInterpretation": "Daca visati un suvenir reprezinta realizari de neuitat sau situati memorabile. Pozitiv, un suvenir poate reprezenta realizari memorabile care insufla mandrie, incredere sau sentimente de succes. Negativ, un suvenir poate reprezenta ghinion , tragedie sau o experienta negativa., care este greu de uitat.",
+      "slug": "suvenir"
+    },
+    {
+      "name": "Suzeta",
+      "category": "dictionar",
+      "shortMeaning": "Suzeta in vise reprezinta un sentiment matern sau patern.",
+      "fullInterpretation": "Suzeta in vise reprezinta un sentiment matern sau patern. Este posibil sa simtiti nevoia de protectie si afectiune.",
+      "slug": "suzeta"
+    }
+  ]
+}
